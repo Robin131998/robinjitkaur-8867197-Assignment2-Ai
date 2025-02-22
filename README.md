@@ -61,4 +61,16 @@ The purpose of this document is to define and clarify the functional and system 
 
 
 
+**Preliminary Tasks:**
+--
+1.Clarify and finalize requirements.  
+
+2.Develop a data collection and preprocessing strategy.  
+
+3.Design the system architecture.  
+
+4.Create a tagging and categorization system.  
+
+5.Develop bias detection and data rebalancing tools.  
+
 
