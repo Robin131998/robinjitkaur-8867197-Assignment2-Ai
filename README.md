@@ -3,8 +3,9 @@
 **Student Id:-**8867197  
 
 **Project-**Ai Scraping  
---
+
 **Overview Of Project**  
+--
 The purpose of this document is to define and clarify the functional and system requirements for an AI developer who uses web scraping to gather publicly available training data. The document ensures the requirements are fully explored, assumptions are stated, and validation plans are outlined.  
 
 **Functional Requirements**
@@ -28,6 +29,19 @@ The purpose of this document is to define and clarify the functional and system 
 4.Generate regular reports on biases in the data so users can evaluate and address them.  
 5.Notify users immediately when biased and imbalanced data is detected, so they can fix it right away.  
   
+
+**Assumptions:**
+--
+1.Organizing questions into categories will save developers time and make finding relevant training data easier.  
+
+2Delaying access to answers will help developers test their knowledge and reinforce learning.  
+
+3.Tagging questions with topics and difficulty levels will make searching and filtering more efficient.  
+
+4.Detecting and correcting biases in data will result in fairer and more accurate AI models.  
+
+5.Quick reporting of biased data will help developers promptly address and fix any issues.  
+
 
 
 
