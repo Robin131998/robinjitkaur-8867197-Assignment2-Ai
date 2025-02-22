@@ -7,5 +7,18 @@
 **Overview Of Project**  
 The purpose of this document is to define and clarify the functional and system requirements for an AI developer who uses web scraping to gather publicly available training data. The document ensures the requirements are fully explored, assumptions are stated, and validation plans are outlined.  
 
+**Functional Requirements**
+
+1.The system should automatically sort questions into categories, so developers donot have to spend time searching for relevant training data.  
+
+2.Developers should be able to test their knowledge without immediately seeing the answers, allowing them to self-assess and reinforce their learning.  
+
+3.Each question should be labeled with tags like topic and difficulty level. This makes it easy for developers to filter and find specific questions they need.  
+
+4.The system should be able to identify any biases in the data and automatically correct them, ensuring that the AI models are trained on fair and diverse data.  
+
+5.If any biased data is found, the system should generate reports immediately. This helps developers quickly address and fix any issues.  
+  
+ 
 
 
