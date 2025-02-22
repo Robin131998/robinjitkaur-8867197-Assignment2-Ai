@@ -24,9 +24,13 @@ The purpose of this document is to define and clarify the functional and system 
 **System Requirements**
 --
 1.The system should maintain an indexed structure to make finding information quick and easy.  
+
 2.Only show answers when the user confirms they want to see them, allowing for self-testing first.  
-3.Enable tagging for questions by topics and difficulty levels to simplify searching and filtering.
+
+3.Enable tagging for questions by topics and difficulty levels to simplify searching and filtering.  
+
 4.Generate regular reports on biases in the data so users can evaluate and address them.  
+
 5.Notify users immediately when biased and imbalanced data is detected, so they can fix it right away.  
   
 
@@ -41,6 +45,19 @@ The purpose of this document is to define and clarify the functional and system 
 4.Detecting and correcting biases in data will result in fairer and more accurate AI models.  
 
 5.Quick reporting of biased data will help developers promptly address and fix any issues.  
+
+
+**Validation Plan:**
+--
+1.Does the system's indexed structure allow developers to quickly find relevant information?  
+
+2.Does delaying access to answers help developers test their knowledge and reinforce learning?  
+
+3.Do tags for topics and difficulty levels simplify and speed up the search process?  
+
+4.Does the system accurately identify and correct biases in the data, leading to fair and diverse AI models?  
+
+5.Does the system generate timely and useful reports on biased data, allowing developers to address issues promptly?  
 
 
 
